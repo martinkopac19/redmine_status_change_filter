@@ -56,4 +56,6 @@ rm -rf plugins/redmine_status_change_filter
 
 ## License
 
+Copyright (C) 2026 Martin Kopáč
+
 GPL-2.0-or-later, matching Redmine. See [LICENSE](LICENSE).
